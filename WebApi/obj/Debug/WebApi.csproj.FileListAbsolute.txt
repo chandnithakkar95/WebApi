@@ -1,0 +1,107 @@
+F:\.NETPractice (C#)\WebApi\WebApi\bin\ApplicationInsights.config
+F:\.NETPractice (C#)\WebApi\WebApi\bin\WebApi.dll.config
+F:\.NETPractice (C#)\WebApi\WebApi\bin\WebApi.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\WebApi.pdb
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Antlr3.Runtime.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\EntityFramework.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Newtonsoft.Json.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Helpers.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Http.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Mvc.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Optimization.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Razor.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.WebPages.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\WebGrease.dll
+F:\.NETPractice (C#)\WebApi\WebApi\bin\EntityFramework.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Newtonsoft.Json.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Helpers.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Http.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Mvc.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Optimization.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.Razor.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.WebPages.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+F:\.NETPractice (C#)\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+F:\.NETPractice (C#)\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+F:\.NETPractice (C#)\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+F:\.NETPractice (C#)\WebApi\WebApi\obj\Debug\WebApi.dll
+F:\.NETPractice (C#)\WebApi\WebApi\obj\Debug\WebApi.pdb
+F:\NETPracticeC\WebApi\WebApi\bin\ApplicationInsights.config
+F:\NETPracticeC\WebApi\WebApi\bin\WebApi.dll.config
+F:\NETPracticeC\WebApi\WebApi\bin\WebApi.dll
+F:\NETPracticeC\WebApi\WebApi\bin\WebApi.pdb
+F:\NETPracticeC\WebApi\WebApi\bin\Antlr3.Runtime.dll
+F:\NETPracticeC\WebApi\WebApi\bin\EntityFramework.dll
+F:\NETPracticeC\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+F:\NETPracticeC\WebApi\WebApi\bin\Newtonsoft.Json.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Cors.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Helpers.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Http.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Mvc.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Optimization.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Razor.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.WebPages.dll
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+F:\NETPracticeC\WebApi\WebApi\bin\WebGrease.dll
+F:\NETPracticeC\WebApi\WebApi\bin\EntityFramework.xml
+F:\NETPracticeC\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+F:\NETPracticeC\WebApi\WebApi\bin\Newtonsoft.Json.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Helpers.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Http.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Mvc.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Optimization.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.Razor.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.WebPages.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+F:\NETPracticeC\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+F:\NETPracticeC\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+F:\NETPracticeC\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+F:\NETPracticeC\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+F:\NETPracticeC\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+F:\NETPracticeC\WebApi\WebApi\obj\Debug\WebApi.dll
+F:\NETPracticeC\WebApi\WebApi\obj\Debug\WebApi.pdb

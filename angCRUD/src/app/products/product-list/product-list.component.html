@@ -1,0 +1,10 @@
+<table class="table table-sm table-hover">
+	<tr *ngFor="let product of productService.productList">
+		<td>{{product.Id}}-{{product.ProductName}}</td>
+		<td>{{product.Price}}</td>
+		<td>
+			<a class="btn"><i class="fa fa-pencil-square-o"(click)="showForEdit(product)"></i></a>
+			<a class="btn text-danger"(click)="onDelete(product.Id)"><i class="fa fa-trash-o"></i></a>
+		</td>
+	</tr>
+</table>
